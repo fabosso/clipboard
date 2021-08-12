@@ -1,0 +1,9 @@
+.textWrapper {
+  width: 100%;
+  max-width: 640px;
+  margin: 75px auto;
+}
+
+.image {
+  max-width: 100%;
+}
