@@ -1,0 +1,18 @@
+/* mobile */
+@media screen and (max-width: 640px) {
+  .wrapper {
+    margin: 30px 0;
+  }
+}
+
+/* tablets & desktop */
+@media screen and (min-width: 640px) {
+  .wrapper {
+    width: 32%;
+  }
+}
+
+.img {
+  height: 32px;
+  margin-bottom: 20px;
+}
